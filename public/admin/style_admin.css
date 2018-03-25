@@ -1,0 +1,86 @@
+main.admin{
+	padding: 15px;
+	width: 900px;
+	margin: auto;
+	font-family: Arial;
+}
+
+.insertTable input[type="text"]{
+	width: 600px;
+	height: 40px;
+	font-size: 30px;
+	border-radius: 15px;
+	border: 1px solid darkgray;
+	padding: 4px;	
+}
+
+
+.insertTable input[type="number"]{
+	width: 200px;
+	height: 40px;
+	font-size: 30px;
+	border-radius: 15px;
+	border: 1px solid darkgray;
+	padding: 4px;	
+}
+.insertTable input[type="file"]{
+	width: 600px;
+	height: 40px;
+	font-size: 30px;
+	border-radius: 15px;
+	vertical-align: center;
+	padding: 24px;	
+}
+.insertTable textarea{
+	padding: 14px;
+	border-radius: 15px;
+	min-width: 586px;
+	min-height: 200px;
+	font-size: 25px;
+}
+
+.insertTable input[type="submit"]{
+	width: 200px;
+	height: 80px;
+	font-size: 40px;
+	background: #4e8bed;
+	display: block;
+	margin: auto;
+	border-radius: 15px;
+}
+
+.insertTable{
+	zoom: 0.7;
+	font-size: 28px;
+	display: block;
+	margin: 20px auto;
+	border: 2px dotted gray;
+	width: 738px;
+	padding: 15px;
+	border-radius: 20px;
+
+}
+
+
+table.prod_table, .prod_table tr, .prod_table td, .prod_table th {
+	border-collapse: collapse;	
+	padding: 4px 50px;
+	text-align: left;
+}
+.prod_table img:hover{
+	box-sizing: border-box;
+	padding: 2px;
+	border-radius: 10px;
+	box-shadow: 0 0 20px gray;
+}
+
+#des{
+	padding: 10px;
+	font-size: 16px;
+}
+
+
+
+
+
+
