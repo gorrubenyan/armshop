@@ -16,7 +16,7 @@
                  <li><a href="about.php">About</a></li>
                  <li><a href="contact.php">Contact</a></li>
                  <li><a href="school.php">HTML School</a></li> 
-                 <li><a href="shop.php">Online shop</a></li> 
+                 <li><a href="index.php">Online shop</a></li> 
                  
                  <div class="dropdown" style="float:right;">
                       <button class="dropbtn">Dropdown</button>
@@ -26,7 +26,7 @@
                         <a href="css.php" >CSS</a>
                         <a href="about.php" >About</a>
                         <a href="contact.php" >Contact</a>
-                         <a href="shop.php" >Online shop</a>
+                         <a href="index.php" >Online shop</a>
                 </div>
             </ul>
  </body>
